@@ -1,3 +1,2 @@
 # SoftUni-Courses-2023
-първи опит за създаване 
-дано е успешен :)
+Coursess from my education @Softuni
